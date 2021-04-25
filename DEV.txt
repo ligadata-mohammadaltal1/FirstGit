@@ -1,0 +1,7 @@
+This is test 
+1
+2
+After number 2 remote
+3
+After Line 3 from Local
+4
