@@ -1,1 +1,1 @@
-*.txt merge=auto
+*.txt merge=union
